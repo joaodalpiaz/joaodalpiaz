@@ -1,12 +1,13 @@
-# Hi, I'm João Dalpiaz 👋
+
+# Hi, I'm João Dalpiaz! 👋
 
 I'm a Software Developer from Brazil, graduated in Information and Communication Technologies at the Federal University of Santa Catarina (UFSC).
 
-I have experience building web applications, working across frontend, backend, databases, and deployment.
+I have experience developing web applications, working with frontend, backend, relational databases, and deployment.
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
-**Languages:** Java, Python, JavaScript, SQL
+**Languages:** Java, Python, JavaScript, TypeScript, SQL
 
 **Frontend:** React, Next.js, Tailwind CSS
 
@@ -14,12 +15,22 @@ I have experience building web applications, working across frontend, backend, d
 
 **Databases & Tools:** MySQL, Git, GitHub
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-- **SIPED** — Web application for managing pediatric healthcare records, developed with Python and Django.
-- **ENOA** — Institutional website with a dynamic product catalog, admin dashboard, and MySQL integration.
-- **CEPRAG Interactive Totem** — Touchscreen application built with React, React Flow, and Capacitor for Android.
+#### 🏥 SIPED — Pediatric Healthcare System
+Academic research project developed at UFSC using Python and Django.
 
-### 📫 Connect with me
+I contributed to backend functionality, patient registration, data validation, search features, and system maintenance.
+
+🔗 [View Repository](https://github.com/gabrielfonsecas/siped)
+
+#### 🌐 ENOA — Institutional Website & Product Catalog
+Commercial web application developed with Next.js, React, TypeScript, Prisma, and MySQL.
+
+Features include a dynamic product catalog, administrative dashboard, authentication, and database integration.
+
+🔗 [Visit Website](https://enoaenergy.com.br)
+
+### 📫 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/joaodalpiaz1/)
